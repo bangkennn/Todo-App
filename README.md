@@ -1,1 +1,8 @@
-# Todo-App
+Aplikasi ini menggunakan:
+
+1. VERCEL -> Sebagai Media Hosting
+2. Clever Cloud -> Sebagai Database (Free)
+3. VS CODE -> IDE Penulisan Code
+4. HTML, CSS, JS -> Bahasa Utama Yang Digunakan
+
+APLIKASI INI DIBANGUN BERTUJUAN UNTUK TESTING HOSTING MENGGUNAKAN VERCEL SERTA MEMASTIKAN DATABASE YANG DIGUNAKAN JALAN PADA SAAT TAHAP HOSTING
